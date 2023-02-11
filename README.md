@@ -8,5 +8,3 @@
     <li><a href="#intro"> Introduction  </a></li>
     <li><a href="#scope"> Scope of the Project </a></li>
 
-
-

@@ -6,5 +6,6 @@
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
     <li><a href="#intro"> Introduction  </a></li>
-    <li><a href="#scope"> Scope of the Project </a></li>
+    
 
+An online hotel booking form is used to track bookings and manage reservations through a hotel's website.

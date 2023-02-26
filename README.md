@@ -1,5 +1,5 @@
-<h1>International Hotel Booking Form (ongoing)</h1>   
-<p align="justify">
+<h1>International Hotel Booking Form </h1>   
+<p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/116307514/218279044-93963d20-f923-43f1-b308-0c81caa5de93.png">
 </p>
  
